@@ -3,3 +3,5 @@ Simply put RedemptionWow.exe into your wow wotlk folder. Ensure there is a prope
 
 JRE is required for any java application!
 https://www.java.com/en/download/manual.jsp
+
+APP IS NOT DIGITALLY SIGNED, click more info then Run anyway.
